@@ -33,3 +33,8 @@ Test.py - sudoku list test thing
 Thing.py - normal people call it "helloworld" you dumb ass  
 weirdfunctionnotation.py - trying lambda functions  
 Zeta.py - prints out ζ(s) for s ∈ ℝ and attempts to do it for complex numbers  
+
+helloworld.cpp - prints "hello world"
+helloworld.exe - compiled helloworld.cpp
+primefactor.cpp - prime factors an integer
+primefactor.exe - compiled primefactor.cpp
