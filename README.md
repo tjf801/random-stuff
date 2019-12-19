@@ -1,5 +1,7 @@
 # random-stuff
 Things that don't deserve their own repository and/or don't work i put here to die a sad and lonely death  
+  
+  
 "code that you wrote 6 months ago may as well be someone elses code" - Albert Einstein  
 (hmu with a pull request if you can figure out what stuff does or fix any code)  
 
